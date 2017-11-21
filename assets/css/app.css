@@ -17,6 +17,7 @@ body {
 #app .bootstrap-select{
   width:33%;
 }
+
 @media screen and (max-width: 540px) {
   #app .bootstrap-select {
     width:75%;
@@ -30,8 +31,4 @@ body {
   p {
     font-size:140%;
   }
-}
-
-#levelinfo {
-
 }
