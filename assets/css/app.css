@@ -3,6 +3,9 @@ body {
   margin: auto;
   text-align: center;
 }
+.header {
+  margin: 0 10px 0 10px;
+}
 #app {
   margin: auto;
   max-width: 960px;
@@ -18,7 +21,15 @@ body {
   #app .bootstrap-select {
     width:75%;
   }
-
+  h1{
+    font-size: 250%;
+  }
+  h4 {
+    font-size: 180%;
+  }
+  p {
+    font-size:140%;
+  }
 }
 
 #levelinfo {
