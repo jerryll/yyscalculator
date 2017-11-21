@@ -1,3 +1,26 @@
 body {
-  padding-top: 70px;
+  padding-top: 1em;
+  margin: auto;
+  text-align: center;
+}
+#app {
+  margin: auto;
+  max-width: 960px;
+}
+#levelinfo p{
+  color: #c1212c
+}
+
+#app .bootstrap-select{
+  width:33%;
+}
+@media (max-width: 540px) {
+  #app .bootstrap-select {
+    width:75%;
+  }
+
+}
+
+#levelinfo {
+
 }

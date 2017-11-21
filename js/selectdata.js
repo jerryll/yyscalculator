@@ -104,7 +104,7 @@ var app = new Vue({
         name: "跳跳妹妹"
       },
       {
-        name: "兵佣",
+        name: "兵俑",
         clue: "剑/坚甲/石化"
       },
       {

@@ -95,18 +95,18 @@ leveldata = {
               {questmonster: "鸦天狗",amount: 1}
             ]
           },
-          { monstername: "左3：兵佣",
+          { monstername: "左3：兵俑",
             monsters: [
               {questmonster: "童女",amount: 2},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "提灯小僧",amount: 1}
             ]
           },
-          { monstername: "左4：兵佣",
+          { monstername: "左4：兵俑",
             monsters: [
               {questmonster: "灯笼鬼",amount: 2},
               {questmonster: "提灯小僧",amount: 2},
-              {questmonster: "兵佣",amount: 1}
+              {questmonster: "兵俑",amount: 1}
             ]
           },
           { monstername: "左5：赤舌",
@@ -152,7 +152,7 @@ leveldata = {
           { monstername: "左3：唐纸伞妖",
             monsters: [
               {questmonster: "童女",amount: 2},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "提灯小僧",amount: 1}
             ]
           },
@@ -160,7 +160,7 @@ leveldata = {
             monsters: [
               {questmonster: "灯笼鬼",amount: 2},
               {questmonster: "提灯小僧",amount: 2},
-              {questmonster: "兵佣",amount: 1}
+              {questmonster: "兵俑",amount: 1}
             ]
           },
           { monstername: "左5：天邪鬼赤",
@@ -510,7 +510,7 @@ leveldata = {
               {questmonster: "酒吞童子",amount: 2},
               {questmonster: "食发鬼",amount: 2},
               {questmonster: "跳跳哥哥",amount: 1},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "骨女",amount: 2}
             ]
           }
@@ -1057,14 +1057,14 @@ leveldata = {
           { monstername: "烟烟罗2（坐）",
             monsters: [
               {questmonster: "武士之灵",amount: 2},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "烟烟罗",amount: 1}
             ]
           },
           { monstername: "食发鬼2",
             monsters: [
               {questmonster: "丑时之女",amount: 2},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "食发鬼",amount: 1}
             ]
           },
@@ -1078,7 +1078,7 @@ leveldata = {
           { monstername: "食发鬼3",
             monsters: [
               {questmonster: "丑时之女",amount: 2},
-              {questmonster: "兵佣",amount: 1},
+              {questmonster: "兵俑",amount: 1},
               {questmonster: "食发鬼",amount: 1}
             ]
           },
@@ -1212,5 +1212,673 @@ leveldata = {
           }
         ]
       },
+      {
+        levelname: "妖气封印",
+        monsterarray: [
+          { monstername: "跳跳哥哥",
+            monsters: [
+              {questmonster: "天邪鬼绿",amount: 4},
+              {questmonster: "帚神",amount: 2},
+              {questmonster: "天邪鬼青",amount: 3},
+              {questmonster: "天邪鬼黄",amount: 3},
+              {questmonster: "跳跳哥哥",amount: 3}
+            ]
+          },
+          { monstername: "椒图",
+            monsters: [
+              {questmonster: "天邪鬼绿",amount: 8},
+              {questmonster: "天邪鬼黄",amount: 2},
+              {questmonster: "天邪鬼赤",amount: 1},
+              {questmonster: "椒图",amount: 3}
+            ]
+          },
+          { monstername: "饿鬼",
+            monsters: [
+              {questmonster: "涂壁",amount: 1},
+              {questmonster: "唐纸伞妖",amount: 1},
+              {questmonster: "提灯小僧",amount: 3},
+              {questmonster: "天邪鬼绿",amount: 6},
+              {questmonster: "饿鬼",amount: 3}
+            ]
+          },
+          { monstername: "骨女",
+            monsters: [
+              {questmonster: "天邪鬼绿",amount: 6},
+              {questmonster: "骨女",amount: 3},
+              {questmonster: "帚神",amount: 4},
+              {questmonster: "天邪鬼赤",amount: 1},
+            ]
+          },
+          { monstername: "二口女",
+            monsters: [
+              {questmonster: "提灯小僧",amount: 4},
+              {questmonster: "二口女",amount: 3},
+              {questmonster: "天邪鬼青",amount: 3},
+              {questmonster: "帚神",amount: 4}
+            ]
+          },
+          { monstername: "海坊主",
+            monsters: [
+              {questmonster: "提灯小僧",amount: 4},
+              {questmonster: "天邪鬼黄",amount: 3},
+              {questmonster: "天邪鬼青",amount: 1},
+              {questmonster: "天邪鬼绿",amount: 1},
+              {questmonster: "天邪鬼赤",amount: 2},
+              {questmonster: "海坊主",amount: 3}
+            ]
+          },
+          { monstername: "鬼使黑",
+            monsters: [
+              {questmonster: "涂壁",amount: 4},
+              {questmonster: "天邪鬼赤",amount: 1},
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "提灯小僧",amount: 3},
+              {questmonster: "鬼使黑",amount: 3}
+            ]
+          },
+          { monstername: "小松丸",
+            monsters: [
+              {questmonster: "涂壁",amount: 4},
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "天邪鬼赤",amount: 1},
+              {questmonster: "提灯小僧",amount: 3},
+              {questmonster: "小松丸",amount: 3}
+            ]
+          },
+          { monstername: "金币妖怪",
+            monsters: [
+              {questmonster: "铁鼠",amount: 18}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "御魂副本",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "天邪鬼青",amount: 1},
+              {questmonster: "三尾狐",amount: 1},
+              {questmonster: "山童",amount: 1},
+              {questmonster: "涂壁",amount: 1},
+              {questmonster: "独眼小僧",amount: 1},
+              {questmonster: "天邪鬼赤",amount: 2}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "妖狐",amount: 1},
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "河童",amount: 1},
+              {questmonster: "吸血姬",amount: 1},
+              {questmonster: "莹草",amount: 1},
+              {questmonster: "兵俑",amount: 1},
+              {questmonster: "童女",amount: 2}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "桃花妖",amount: 1},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "青蛙瓷器",amount: 1},
+              {questmonster: "海坊主",amount: 1},
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "座敷童子",amount: 2}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "犬神",amount: 1},
+              {questmonster: "童男",amount: 1},
+              {questmonster: "童女",amount: 1},
+              {questmonster: "大天狗",amount: 1},
+              {questmonster: "鬼使黑",amount: 1},
+              {questmonster: "鬼使白",amount: 1},
+              {questmonster: "食梦貘",amount: 2}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "镰鼬",amount: 1},
+              {questmonster: "骨女",amount: 1},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "傀儡师",amount: 1},
+              {questmonster: "跳跳哥哥",amount: 1},
+              {questmonster: "独眼小僧",amount: 1},
+              {questmonster: "孟婆",amount: 2}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "雨女",amount: 1},
+              {questmonster: "孟婆",amount: 1},
+              {questmonster: "座敷童子",amount: 1},
+              {questmonster: "阎魔",amount: 1},
+              {questmonster: "巫蛊师",amount: 1},
+              {questmonster: "鸦天狗",amount: 1},
+              {questmonster: "骨女",amount: 2}
+            ]
+          },
+          { monstername: "第七层",
+            monsters: [
+              {questmonster: "凤凰火",amount: 1},
+              {questmonster: "食发鬼",amount: 1},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "酒吞童子",amount: 1},
+              {questmonster: "妖琴师",amount: 1},
+              {questmonster: "山兔",amount: 1},
+              {questmonster: "荒川之主",amount: 2}
+            ]
+          },
+          { monstername: "第八层",
+            monsters: [
+              {questmonster: "饿鬼",amount: 1},
+              {questmonster: "管狐",amount: 1},
+              {questmonster: "判官",amount: 1},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "白狼",amount: 1},
+              {questmonster: "茨木童子",amount: 2}
+            ]
+          },
+          { monstername: "第九层",
+            monsters: [
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "莹草",amount: 1},
+              {questmonster: "食梦貘",amount: 1},
+              {questmonster: "狸猫",amount: 1},
+              {questmonster: "清姬",amount: 1},
+              {questmonster: "两面佛",amount: 2}
+            ]
+          },
+          { monstername: "第十层",
+            monsters: [
+              {questmonster: "二口女",amount: 1},
+              {questmonster: "莹草",amount: 1},
+              {questmonster: "觉",amount: 1},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "酒吞童子",amount: 1},
+              {questmonster: "青行灯",amount: 1},
+              {questmonster: "大天狗",amount: 2}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "暴风之巅",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "帚神",amount: 4},
+              {questmonster: "三尾狐",amount: 4},
+              {questmonster: "首无",amount: 3},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "三尾狐",amount: 4},
+              {questmonster: "狸猫",amount: 3},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "青蛙瓷器",amount: 1},
+              {questmonster: "三尾狐",amount: 4},
+              {questmonster: "山童",amount: 3},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "三尾狐",amount: 4},
+              {questmonster: "独眼小僧",amount: 1},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "三尾狐",amount: 3},
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "鸦天狗",amount: 4},
+              {questmonster: "雪女",amount: 1},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "金鱼姬",amount: 1},
+              {questmonster: "三尾狐",amount: 3},
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "清姬",amount: 2},
+              {questmonster: "鬼使白",amount: 2},
+              {questmonster: "跳跳弟弟",amount: 1},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          },
+          { monstername: "第七层",
+            monsters: [
+              {questmonster: "帚神",amount: 3},
+              {questmonster: "金鱼姬",amount: 1},
+              {questmonster: "镰鼬",amount: 1},
+              {questmonster: "夜叉",amount: 5},
+              {questmonster: "莹草",amount: 4},
+              {questmonster: "雨女",amount: 1},
+              {questmonster: "大天狗",amount: 1}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "荒川之怒",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "灯笼鬼",amount: 3},
+              {questmonster: "武士之灵",amount: 1},
+              {questmonster: "寄生魂",amount: 3},
+              {questmonster: "盗墓小鬼",amount: 3},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "灯笼鬼",amount: 3},
+              {questmonster: "武士之灵",amount: 1},
+              {questmonster: "寄生魂",amount: 3},
+              {questmonster: "童女",amount: 3},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "灯笼鬼",amount: 3},
+              {questmonster: "武士之灵",amount: 1},
+              {questmonster: "寄生魂",amount: 3},
+              {questmonster: "管狐",amount: 3},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "河童",amount: 3},
+              {questmonster: "海坊主",amount: 1},
+              {questmonster: "蝴蝶精",amount: 3},
+              {questmonster: "鸦天狗",amount: 4},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "河童",amount: 3},
+              {questmonster: "海坊主",amount: 1},
+              {questmonster: "蝴蝶精",amount: 3},
+              {questmonster: "山兔",amount: 4},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "鲤鱼精",amount: 1},
+              {questmonster: "河童",amount: 3},
+              {questmonster: "海坊主",amount: 1},
+              {questmonster: "蝴蝶精",amount: 3},
+              {questmonster: "雪女",amount: 4},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第七层",
+            monsters: [
+              {questmonster: "金鱼姬",amount: 1},
+              {questmonster: "古笼火",amount: 3},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "夜叉",amount: 4},
+              {questmonster: "清姬",amount: 4},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          },
+          { monstername: "第八层",
+            monsters: [
+              {questmonster: "金鱼姬",amount: 1},
+              {questmonster: "古笼火",amount: 3},
+              {questmonster: "惠比寿",amount: 1},
+              {questmonster: "夜叉",amount: 4},
+              {questmonster: "海坊主",amount: 5},
+              {questmonster: "荒川之主",amount: 1}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "雨女的等候",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "唐纸伞妖",amount: 1},
+              {questmonster: "盗墓小鬼",amount: 3},
+              {questmonster: "铁鼠",amount: 1},
+              {questmonster: "九命猫",amount: 3},
+              {questmonster: "座敷童子",amount: 3},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "唐纸伞妖",amount: 1},
+              {questmonster: "盗墓小鬼",amount: 3},
+              {questmonster: "铁鼠",amount: 1},
+              {questmonster: "九命猫",amount: 3},
+              {questmonster: "首无",amount: 3},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "唐纸伞妖",amount: 1},
+              {questmonster: "盗墓小鬼",amount: 3},
+              {questmonster: "铁鼠",amount: 1},
+              {questmonster: "九命猫",amount: 3},
+              {questmonster: "武士之灵",amount: 3},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "唐纸伞妖",amount: 3},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "觉",amount: 3},
+              {questmonster: "骨女",amount: 4},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "唐纸伞妖",amount: 3},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "觉",amount: 3},
+              {questmonster: "烟烟罗",amount: 4},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "唐纸伞妖",amount: 3},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "觉",amount: 3},
+              {questmonster: "夜叉",amount: 4},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第七层",
+            monsters: [
+              {questmonster: "巫蛊师",amount: 1},
+              {questmonster: "鸦天狗",amount: 3},
+              {questmonster: "三尾狐",amount: 1},
+              {questmonster: "莹草",amount: 2},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "兵俑",amount: 4},
+              {questmonster: "雨女",amount: 1}
+            ]
+          },
+          { monstername: "第八层",
+            monsters: [
+              {questmonster: "巫蛊师",amount: 1},
+              {questmonster: "鸦天狗",amount: 3},
+              {questmonster: "跳跳弟弟",amount: 4},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "河童",amount: 5},
+              {questmonster: "雨女",amount: 1}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "妖刀的秘籍",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 4},
+              {questmonster: "狸猫",amount: 4},
+              {questmonster: "盗墓小鬼",amount: 3},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 4},
+              {questmonster: "狸猫",amount: 4},
+              {questmonster: "狸猫",amount: 3},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 4},
+              {questmonster: "狸猫",amount: 4},
+              {questmonster: "雨女",amount: 3},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 3},
+              {questmonster: "涂壁",amount: 1},
+              {questmonster: "狸猫",amount: 3},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "三尾狐",amount: 3},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 3},
+              {questmonster: "涂壁",amount: 1},
+              {questmonster: "狸猫",amount: 3},
+              {questmonster: "蝴蝶精",amount: 1},
+              {questmonster: "傀儡师",amount: 1},
+              {questmonster: "二口女",amount: 1},
+              {questmonster: "骨女",amount: 1},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "天邪鬼青",amount: 3},
+              {questmonster: "天邪鬼绿",amount: 1},
+              {questmonster: "狸猫",amount: 3},
+              {questmonster: "鸦天狗",amount: 1},
+              {questmonster: "樱花妖",amount: 1},
+              {questmonster: "桃花妖",amount: 1},
+              {questmonster: "清姬",amount: 1},
+              {questmonster: "妖刀姬",amount: 1}
+            ]
+          },
+          { monstername: "第七层",
+              monsters: [
+                {questmonster: "天邪鬼青",amount: 3},
+                {questmonster: "天邪鬼绿",amount: 1},
+                {questmonster: "狸猫",amount: 3},
+                {questmonster: "鬼使黑",amount: 1},
+                {questmonster: "鬼使白",amount: 1},
+                {questmonster: "判官",amount: 1},
+                {questmonster: "鸦天狗",amount: 1},
+                {questmonster: "妖刀姬",amount: 1}
+              ]
+          }
+        ]
+      },
+      {
+        levelname: "红叶的羁绊",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "管狐",amount: 4},
+              {questmonster: "饿鬼",amount: 4},
+              {questmonster: "觉",amount: 3},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "管狐",amount: 4},
+              {questmonster: "饿鬼",amount: 4},
+              {questmonster: "跳跳妹妹",amount: 1},
+              {questmonster: "跳跳弟弟",amount: 1},
+              {questmonster: "跳跳哥哥",amount: 1},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "管狐",amount: 4},
+              {questmonster: "饿鬼",amount: 4},
+              {questmonster: "首无",amount: 2},
+              {questmonster: "三尾狐",amount: 1},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "管狐",amount: 3},
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "饿鬼",amount: 3},
+              {questmonster: "兵俑",amount: 1},
+              {questmonster: "鸦天狗",amount: 2},
+              {questmonster: "丑时之女",amount: 1},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "管狐",amount: 3},
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "饿鬼",amount: 3},
+              {questmonster: "兵俑",amount: 1},
+              {questmonster: "铁鼠",amount: 2},
+              {questmonster: "骨女",amount: 1},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "管狐",amount: 3},
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "饿鬼",amount: 3},
+              {questmonster: "椒图",amount: 1},
+              {questmonster: "雨女",amount: 2},
+              {questmonster: "雪女",amount: 1},
+              {questmonster: "鬼女红叶",amount: 1}
+            ]
+          }
+        ]
+      },
+      {
+        levelname: "河畔童谣",
+        monsterarray: [
+          { monstername: "第一层",
+            monsters: [
+              {questmonster: "盗墓小鬼",amount: 1},
+              {questmonster: "提灯小僧",amount: 3},
+              {questmonster: "童女",amount: 1},
+              {questmonster: "童男",amount: 3},
+              {questmonster: "童女",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第二层",
+            monsters: [
+              {questmonster: "盗墓小鬼",amount: 1},
+              {questmonster: "提灯小僧",amount: 3},
+              {questmonster: "独眼小僧",amount: 1},
+              {questmonster: "山童",amount: 3},
+              {questmonster: "白童子",amount: 1},
+              {questmonster: "黑童子",amount: 1},
+              {questmonster: "座敷童子",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第三层",
+            monsters: [
+              {questmonster: "惠比寿",amount: 1},
+              {questmonster: "武士之灵",amount: 3},
+              {questmonster: "烟烟罗",amount: 1},
+              {questmonster: "食发鬼",amount: 3},
+              {questmonster: "灯笼鬼",amount: 2},
+              {questmonster: "赤舌",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第四层",
+            monsters: [
+              {questmonster: "镰鼬",amount: 1},
+              {questmonster: "黑豹",amount: 3},
+              {questmonster: "莹草",amount: 1},
+              {questmonster: "觉",amount: 3},
+              {questmonster: "丑时之女",amount: 2},
+              {questmonster: "兵俑",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第五层",
+            monsters: [
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "蝴蝶精",amount: 2},
+              {questmonster: "鬼女红叶",amount: 1},
+              {questmonster: "孟婆",amount: 1},
+              {questmonster: "妖琴师",amount: 2},
+              {questmonster: "山兔",amount: 1},
+              {questmonster: "樱花妖",amount: 1},
+              {questmonster: "桃花妖",amount: 1},
+              {questmonster: "凤凰火",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第六层",
+            monsters: [
+              {questmonster: "鬼使白",amount: 1},
+              {questmonster: "鬼使黑",amount: 3},
+              {questmonster: "座敷童子",amount: 1},
+              {questmonster: "古笼火",amount: 3},
+              {questmonster: "天邪鬼青",amount: 1},
+              {questmonster: "天邪鬼绿",amount: 1},
+              {questmonster: "天邪鬼黄",amount: 1},
+              {questmonster: "天邪鬼赤",amount: 1},
+              {questmonster: "河童",amount: 1}
+            ]
+          },
+          { monstername: "第七层",
+              monsters: [
+                {questmonster: "管狐",amount: 3},
+                {questmonster: "青行灯",amount: 1},
+                {questmonster: "首无",amount: 3},
+                {questmonster: "茨木童子",amount: 1},
+                {questmonster: "雨女",amount: 1},
+                {questmonster: "判官",amount: 1},
+                {questmonster: "食梦貘",amount: 1},
+                {questmonster: "河童",amount: 1}
+              ]
+          }
+        ]
+      }
     ]
 }
