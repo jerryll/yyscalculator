@@ -17,7 +17,7 @@ body {
 #app .bootstrap-select{
   width:33%;
 }
-@media (max-width: 540px) {
+@media screen and (max-width: 540px) {
   #app .bootstrap-select {
     width:75%;
   }
